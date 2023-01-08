@@ -1,4 +1,4 @@
-package com.assignment.controllers;
+package com.assignment.controller;
 
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.BeforeEach;
